@@ -7,16 +7,17 @@ text = """
 ### テンプレート
 ```md
 ##
-[問題]()
+[問題](){:target="_blank"}
 [フォルダ]()
 ```
 """
+tag = '{:target="_blank"}'
 for i in range(len(files)):
     question_files = files[i]
 
     files_name = list(question_files.split(".\\"))[1]
     name_cut = list(files_name.split("_"))
-    text += f"## {files_name}\n[問題](https://atcoder.jp/contests/{name_cut[0]}/tasks/{files_name})\n\n[フォルダ]({files_name})\n"
+    text += f"## {files_name}\n[問題](https://atcoder.jp/contests/{name_cut[0]}/tasks/{files_name}){tag}\n\n[フォルダ]({files_name})\n"
 
     with open ("README.md", "w", encoding= "utf-8") as f:
         f.write(text)
