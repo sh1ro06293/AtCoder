@@ -55,3 +55,7 @@
 [問題](https://atcoder.jp/contests/abc354/tasks/abc354_a)
 
 [フォルダ](abc354_a)
+## abc330_a
+[問題](https://atcoder.jp/contests/abc330/tasks/abc330_a)
+
+[フォルダ](abc330_a)
