@@ -4,4 +4,4 @@
 
 <https://atcoder.jp/contests/abc257/tasks/abc257_a>
 
-[python code](abc257_a/main.py)
+[python code](abc257_a\main.py)
