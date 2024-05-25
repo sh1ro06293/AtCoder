@@ -67,3 +67,7 @@
 [問題](https://atcoder.jp/contests/abc326/tasks/abc326_a)
 
 [フォルダ](abc326_a)
+## abc322_a
+[問題](https://atcoder.jp/contests/abc322/tasks/abc322_a)
+
+[フォルダ](abc322_a)
