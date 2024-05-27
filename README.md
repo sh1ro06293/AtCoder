@@ -99,3 +99,7 @@
 [問題](https://atcoder.jp/contests/abc336/tasks/abc336_b)
 
 [フォルダ](abc336_b)
+## abc338_b
+[問題](https://atcoder.jp/contests/abc338/tasks/abc338_b)
+
+[フォルダ](abc338_b)
