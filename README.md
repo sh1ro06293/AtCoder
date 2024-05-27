@@ -95,3 +95,7 @@
 [問題](https://atcoder.jp/contests/abc319/tasks/abc319_a)
 
 [フォルダ](abc319_a)
+## abc336_b
+[問題](https://atcoder.jp/contests/abc336/tasks/abc336_b)
+
+[フォルダ](abc336_b)
