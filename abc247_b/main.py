@@ -9,7 +9,7 @@ for i in range(n):
 
 
 for i in range(0,len(l),2):
-    if l.count(l[i]) >= 2:
+    if (l.count(l[i]) >= 2) and (l[i] != l[i + 1]):
             if l.count(l[i+1]) >= 2:
                 ans = "No"
                 break
@@ -26,7 +26,7 @@ ok
 tanaka taro
 tanaka jiro
 suzuki hanako
-hanako  tanaka
+hanako tanaka
 no
 
 姓が２つ以上で名も２つ以上
