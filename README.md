@@ -123,3 +123,7 @@
 [問題](https://atcoder.jp/contests/abc247/tasks/abc247_b)
 
 [フォルダ](abc247_b)
+## abc269_b
+[問題](https://atcoder.jp/contests/abc269/tasks/abc269_b)
+
+[フォルダ](abc269_b)
