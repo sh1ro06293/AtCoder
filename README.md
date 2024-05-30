@@ -131,3 +131,7 @@
 [問題](https://atcoder.jp/contests/abc344/tasks/abc344_c)
 
 [フォルダ](abc344_c)
+## abc240_b
+[問題](https://atcoder.jp/contests/abc240/tasks/abc240_b)
+
+[フォルダ](abc240_b)
