@@ -8,12 +8,12 @@ for i in range(n):
 for i in range(n):
     if l-1 <= i <= r-1:
         s.append(a[i])
+        if i == r-1:
+            sr = sorted(s, reverse=True)
+            for j in sr:
+                ans.append(j)
     else:
         ans.append(a[i])
-    if i == r-1:
-        sr = sorted(s, reverse=True)
-        for j in sr:
-            ans.append(j)
 
 
 print(*ans)
