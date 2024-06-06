@@ -155,3 +155,7 @@
 [問題](https://atcoder.jp/contests/abc356/tasks/abc356_a)
 
 [フォルダ](abc356_a)
+## abc356_b
+[問題](https://atcoder.jp/contests/abc356/tasks/abc356_b)
+
+[フォルダ](abc356_b)
