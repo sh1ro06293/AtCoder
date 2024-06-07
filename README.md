@@ -167,3 +167,7 @@
 [問題](https://atcoder.jp/contests/abc242/tasks/abc242_a)
 
 [フォルダ](abc242_a)
+## abc173_b
+[問題](https://atcoder.jp/contests/abc173/tasks/abc173_b)
+
+[フォルダ](abc173_b)
