@@ -179,3 +179,7 @@
 [問題](https://atcoder.jp/contests/abc221/tasks/abc221_b)
 
 [フォルダ](abc221_b)
+## abc220_b
+[問題](https://atcoder.jp/contests/abc220/tasks/abc220_b)
+
+[フォルダ](abc220_b)
