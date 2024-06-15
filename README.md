@@ -195,3 +195,7 @@
 [問題](https://atcoder.jp/contests/abc357/tasks/abc357_b)
 
 [フォルダ](abc357)
+## abc358_a
+[問題](https://atcoder.jp/contests/abc358/tasks/abc358_a)
+
+[フォルダ](abc358)
