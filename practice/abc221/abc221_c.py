@@ -1,11 +1,13 @@
-N = input()
+N = sorted(input(),reverse=True)
 d = len(N)
+ans = 0
 
 for num in range(1<<d):
-    # 分離した数
-    kouho1_tmp = ""
-    kouho2_tmp = ""
-    # 積候補
-    ans_tmp = ""
+    l = 0
+    r = 0
+    ans__tmp = 0
+
     for shift in range(d):
-        if 
+        print(1<<shift)
+        if num & (1<<shift):
+            print("num:",num) 
