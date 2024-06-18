@@ -1,3 +1,8 @@
+# 全探索
+
+調べる範囲(探索空間)が狭いときに全探索すればいい
+探索空間が広ければ全探索は向いていないので他の方法を使う
+
 # bit全探査
 
 各桁に 0 or 1 を割り当てる
@@ -48,3 +53,8 @@
 for num in range(1<<5): # 100000
     # 桁数分左シフトする
 ```
+
+
+# 参考youtube
+https://www.youtube.com/watch?v=-vGsAqDIgQo
+https://www.youtube.com/watch?v=umfbbrElhaM
