@@ -6,4 +6,3 @@ l = int(input())
 c = list(map(int, input().split()))
 q = int(input())
 x = list(map(int, input().split()))
-
