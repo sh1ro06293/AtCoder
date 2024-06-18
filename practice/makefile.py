@@ -1,8 +1,10 @@
 import os
 url = input("URLを入力してください: ")
 file_path = url.split("/")[-1]
-folder_path = file_path.split("_")[0]
+folder_path = "practice/" + file_path.split("_")[0]
 mondai = file_path.split("_")[1]
+
+
 
 def make_file(folder_path, file_path, mondai):
     open(f"{folder_path}/{file_path}.py", "w")
