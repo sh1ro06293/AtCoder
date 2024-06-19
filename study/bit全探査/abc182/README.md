@@ -21,3 +21,16 @@ d=3なら
 000 の 0 から
 111 の 7 まで
 ループすることを表している。
+
+
+```py
+for shift in range(d):
+        # 1 & (numをshift右シフト)=1ならば
+        if 1 & num>>shift == 1:
+            # その桁を使う
+            N_tmp = N_tmp+N[shift]
+```
+for shift in range(d):
+これはd=3なら0から2まで右シフトしていく
+1だったらその数を記入する
+
