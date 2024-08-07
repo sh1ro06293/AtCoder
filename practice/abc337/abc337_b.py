@@ -19,7 +19,6 @@ else:
                 count += 1
             else:
                 count += 2
-
         elif count == 1:
             if  s[i + 1] == "B":
                 pass
@@ -27,7 +26,6 @@ else:
                 count += 1
             else:
                 ans = "No"
-            pass
         elif count == 2:
             if  s[i + 1] != "C":
                 ans = "No"
