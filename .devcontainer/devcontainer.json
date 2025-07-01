@@ -1,0 +1,12 @@
+{
+  "name": "Python Dev Environment",
+  "dockerFile": "Dockerfile",
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash"
+  },
+  "extensions": [
+    "ms-python.python"
+  ],
+  "remoteUser": "vscode",
+  "workspaceFolder": "/workspace"
+}
